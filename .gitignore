@@ -1,0 +1,23 @@
+# qmake / Sailfish SDK build artefacts
+*.o
+moc_*.cpp
+moc_*.o
+Makefile
+.qmake.stash
+harbour-saildice
+RPMS/
+.sfdk/
+documentation.list
+*.tar.bz2
+
+# IDE and user files
+*.pro.user
+*.user
+*.autosave
+.vscode/
+.idea/
+
+# Crashes and temporary files
+core
+*.core
+*.log

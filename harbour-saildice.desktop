@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-saildice
+Exec=harbour-saildice
+Name=SailDice
+Comment=Real 3D polyhedral dice roller
+Categories=Utility;Game;
+
+[X-Sailjail]
+OrganizationName=org.hensip
+ApplicationName=harbour-saildice
+Permissions=
